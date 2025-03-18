@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitjay3&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 400px; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitjay3&theme=tokyonight" alt="Top Languages" style="width: 400px; height: auto;" />
 </div>
 
 <p>&nbsp;</p> <!-- 빈 문단으로 줄 간격 추가 -->
