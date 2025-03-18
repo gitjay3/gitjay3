@@ -1,6 +1,5 @@
 ### 🌟 GitHub Stats 🌟
 ---
-<br> <!-- 줄 간격 추가 -->
 
 <div align="center">
   <a href="https://github.com/gitjay3/github-readme-stats">
