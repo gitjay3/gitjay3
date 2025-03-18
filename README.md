@@ -1,5 +1,5 @@
 ### 🌟 GitHub Stats 🌟
-
+---
 <br> <!-- 줄 간격 추가 -->
 
 <div align="center">
